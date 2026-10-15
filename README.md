@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  React.js · Node.js · Express.js · MongoDB · JavaScript
+  React.js · Node.js · Express.js · MongoDB · REST APIs
 </p>
 
 <p align="center">
@@ -21,24 +21,29 @@
 ## About Me
 
 I'm a Senior Software Developer at **Lealava Technologies (OPC) Pvt Ltd**,
-working primarily with the MERN stack. I joined as a Full Stack Developer
-in December 2024 and was promoted in September 2026.
+with a focus on full-stack web development using the **MERN stack**.
+I joined as a Full Stack Developer in December 2024 and was promoted
+in September 2026.
 
-I build frontend interfaces and backend APIs, work with databases and
-troubleshoot application issues. I also use **PHP and MySQL** when projects
-require them.
+Working in a startup has given me experience across different stages of
+software delivery and a closer understanding of how clients use the
+applications we build. I enjoy turning practical requirements into
+straightforward solutions and understanding why things work,
+not just getting them to run.
 
-Beyond coding, I work directly with clients, guide junior developers and
-help take applications from requirements to deployment and handover.
+I value readable code, clear communication and taking responsibility
+for the features I deliver. My goal is to deepen my engineering skills
+while contributing to useful, reliable web applications.
 
 ## What I Work On
 
-- Developing web applications with React.js, Node.js, Express.js and MongoDB
-- Building and integrating REST APIs
-- Handling database operations, debugging and application maintenance
-- Understanding client requirements and coordinating delivery
-- Assigning development tasks and guiding junior developers
-- Deploying applications on Hostinger VPS and resolving production issues
+- Build responsive interfaces using React.js, JavaScript, HTML, CSS and Bootstrap
+- Develop and integrate REST APIs using Node.js and Express.js
+- Handle MongoDB database operations, with PHP and MySQL used where required
+- Gather client requirements and clarify project scope
+- Assign development tasks, guide junior developers and coordinate delivery
+- Deploy applications on Hostinger VPS and troubleshoot production issues
+- Support application maintenance and completed-project handovers
 
 ## Tech Stack
 
@@ -79,8 +84,10 @@ help take applications from requirements to deployment and handover.
 
 ## Currently Learning
 
-- Next.js for React-based applications
-- Docker and Kubernetes fundamentals
+- **Data Structures & Algorithms (DSA)** — strengthening problem-solving skills
+- **System Design** — understanding application architecture and design trade-offs
+- **Docker and Kubernetes fundamentals** — exploring containers and orchestration
+- **Next.js** — building on my React knowledge
 
 ## Recognition
 
@@ -89,13 +96,15 @@ help take applications from requirements to deployment and handover.
 
 ## Opportunities & Collaboration
 
-I'm open to **Full Stack Developer, MERN Stack Developer and
-Senior Software Developer** opportunities where I can contribute to
-web products, take ownership of features and learn from experienced teammates.
+I'm open to **Full Stack Developer, MERN Stack Developer,
+Senior Full Stack Developer and Senior Software Developer** roles
+where I can contribute to web products and grow alongside an experienced team.
 
 Based in **Bhubaneswar**, with a preference for **Bengaluru**.
-Also open to Pune, Hyderabad, Kolkata and Bhubaneswar,
-including onsite, hybrid and remote roles.
+Also open to **Pune, Hyderabad, Kolkata and Bhubaneswar**,
+including onsite, hybrid and remote opportunities.
+
+## Connect With Me
 
 - **Email:** [krushnachandramohanty1036@gmail.com](mailto:krushnachandramohanty1036@gmail.com)
 - **LinkedIn:** [Krushna Chandra Mohanty](https://www.linkedin.com/in/krushna-chandra-mohanty-9b9380289/)
