@@ -67,6 +67,15 @@ while contributing to useful, reliable web applications.
   />
 </p>
 
+<p>
+  <a href="https://www.phpmyadmin.net/">
+    <img
+      src="https://img.shields.io/badge/phpMyAdmin-Database%20Administration-6C78AF?style=for-the-badge"
+      alt="phpMyAdmin — Database Administration"
+    />
+  </a>
+</p>
+
 **Primary:** Node.js, Express.js, MongoDB and REST API development  
 **Secondary:** PHP and MySQL  
 **Database administration:** phpMyAdmin
