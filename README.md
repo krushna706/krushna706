@@ -39,7 +39,7 @@ while contributing to useful, reliable web applications.
 
 - Build responsive interfaces using React.js, JavaScript, HTML, CSS and Bootstrap
 - Develop and integrate REST APIs using Node.js and Express.js
-- Handle MongoDB database operations, with PHP and MySQL used where required
+- Handle MongoDB database operations, with PHP and MySQL used where required and phpMyAdmin for MySQL administration
 - Gather client requirements and clarify project scope
 - Assign development tasks, guide junior developers and coordinate delivery
 - Deploy applications on Hostinger VPS and troubleshoot production issues
@@ -67,18 +67,10 @@ while contributing to useful, reliable web applications.
   />
 </p>
 
-<p>
-  <a href="https://www.phpmyadmin.net/">
-    <img
-      src="https://img.shields.io/badge/phpMyAdmin-Database%20Administration-6C78AF?style=for-the-badge"
-      alt="phpMyAdmin — Database Administration"
-    />
-  </a>
-</p>
+**Node.js · Express.js · MongoDB · PHP · MySQL · phpMyAdmin**
 
 **Primary:** Node.js, Express.js, MongoDB and REST API development  
-**Secondary:** PHP and MySQL  
-**Database administration:** phpMyAdmin
+**Secondary:** PHP, MySQL and phpMyAdmin for MySQL administration
 
 ### Tools & Deployment
 
